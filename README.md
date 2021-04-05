@@ -4,7 +4,7 @@
 
 ![Unity](https://simpleicons.org/icons/unity.svg)
 
-https://img.shields.io/badge/a-Unity-green
+img.shields.io/badge/a-Unity-green
 <!--
 **dogoo3/dogoo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
